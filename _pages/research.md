@@ -10,8 +10,7 @@ author_profile: true
 ------
 
 1. Seats of Loyalty: The Parliamentary Pathway to Democratic Backsliding.
-
-2.The Effect of Incumbency on Local Political Dynasties and Elite Capture. With [Tugba Bozcaga (King's College)](https://www.tugbabozcaga.com), [Aytug Sasmaz (Bryn Mawr College)](https://aytugsasmaz.com)
+2. The Effect of Incumbency on Local Political Dynasties and Elite Capture. With [Tugba Bozcaga (King's College)](https://www.tugbabozcaga.com), [Aytug Sasmaz (Bryn Mawr College)](https://aytugsasmaz.com)
 
 
 
