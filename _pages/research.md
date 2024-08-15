@@ -17,5 +17,5 @@ author_profile: true
 ## Works in Progress
 ------
 
-1.The Gender Effect in Intra-Party Meritocracy. With [Tugba Bozcaga (King's College)](https://www.tugbabozcaga.com)
-2.Quality in Service Provision, Citizen Complaints, and Local Accountability: Evidence from Turkey With [Tugba Bozcaga (King's College)](https://www.tugbabozcaga.com), [Ashrakat Elshehawy (Stanford University)](https://www.ashrakatelshehawy.com)
+1. The Gender Effect in Intra-Party Meritocracy. With [Tugba Bozcaga (King's College)](https://www.tugbabozcaga.com)
+2. Quality in Service Provision, Citizen Complaints, and Local Accountability: Evidence from Turkey With [Tugba Bozcaga (King's College)](https://www.tugbabozcaga.com), [Ashrakat Elshehawy (Stanford University)](https://www.ashrakatelshehawy.com)
