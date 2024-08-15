@@ -5,16 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Stanford University//
+### Stanford University
 ------
-. Middle East Politics (Lisa Blaydes)//
-. Democracy, Development, and the Rule of Law (Hesham Sallam ; Kathryn Stoner)//
-. Euroasian Politics and History (Anna Grzymala-Busse)//
+1. Middle East Politics (Lisa Blaydes)
+2. Democracy, Development, and the Rule of Law (Hesham Sallam ; Kathryn Stoner)
+3. Euroasian Politics and History (Anna Grzymala-Busse)
 
-### Bogazici University//
+### Bogazici University
 ------
-. Social Statistics//
-. Political Science Research Methods// 
-. Politics and Network Analysis//
-. Comparative State and Bureaucracy// 
-. Politics in Developing Countries//
+1. Social Statistics
+2. Political Science Research Methods
+3. Politics and Network Analysis
+4. Comparative State and Bureaucracy
+5. Politics in Developing Countries
