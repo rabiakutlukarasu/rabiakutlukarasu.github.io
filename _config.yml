@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rabia Kutlu Karasu"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Rabia Kutlu Karasu"
 description              : &description "I am a PhD Candidate in Political Science at Stanford University. My research lies at the intersection of comparative politics, political economy, and political behavior. I study ...."
