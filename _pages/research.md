@@ -40,7 +40,7 @@ Abstract: This study explores the impact of gender on intra-party meritocracy wi
 <details>
 <summary>Quality in Service Provision, Citizen Complaints, and Local Accountability: Evidence from Turkey With <a href="https://www.tugbabozcaga.com">Tugba Bozcaga (King's College)</a>, <a href="https://www.ashrakatelshehawy.com">Ashrakat Elshehawy (Stanford University)</a></summary>
 <p>
-Abstract: Available upon request
+Abstract: How do biases stemming from the quality of private services and partisanship affect the extent to which people hold their local governments accountable? Utilizing a unique panel dataset on complaints made to the Istanbul Municipality from 2013 to 2023, this study examines whether low-quality private services, such as electricity outages, increase official complaints made to municipal authorities, despite their limited and regulatory role in these services. Additionally, the study explores the extent to which co-partisanship —the degree of support the incumbent mayor receives from the constituency— influences the number of complaints. To address concerns of reverse causality, this study employs a natural experiment based on the timing of unplanned electricity outages. The findings contribute to the literature on accountability by highlighting a critical factor that can limit the effectiveness of vertical accountability mechanisms.
 </p>
 </details>
 
