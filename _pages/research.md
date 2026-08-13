@@ -26,8 +26,7 @@ Abstract: Why do opposition governments often struggle to gain public approval a
 
 
 <details>
-<summary> Challenging Kinship Politics: Education and Candidate Entry in Local Elections With <a href="https://www.tugbabozcaga.com">Tugba Bozcaga (King's College)</a>, <a href="https://aytugsasmaz.com">Aytug Sasmaz (Bryn Mawr College)</a></summary>
-<p><strong>Under Review</strong></p>
+<summary> Challenging Kinship Politics: Education and Candidate Entry in Local Elections With <a href="https://www.tugbabozcaga.com">Tugba Bozcaga (King's College)</a>, <a href="https://aytugsasmaz.com">Aytug Sasmaz (Bryn Mawr College)</a> <strong>Under Review</strong></summary>
 <p>
 Abstract: Why do competitive elections sometimes reproduce rather than displace entrenched elites? Existing explanations often locate the persistence of kinship-based power on the demand side: voters value recognizable names, brokerage networks, or access to patronage. We shift attention to the supply of political aspirants. Electoral competition can remain socially closed when few citizens are positioned to compete for office, allowing incumbents to reproduce political power through family networks. Leveraging a regression discontinuity design in Turkish municipal elections, we show that winning the mayoralty increases family-based candidacies in subsequent council races, with the effect concentrated in low-education districts. Original survey evidence supports a supply-side mechanism: education narrows the political-efficacy gap between citizens with and without familial political connections, consistent with a broader pool of potential entrants. These findings show that competitive elections need not produce open political competition: elite reproduction depends partly on the social conditions shaping who can credibly compete for office. 
 </p>
